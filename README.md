@@ -13,3 +13,5 @@
 - Para estilização
   - Devemos criar aquivos .module.css para que o css fique de forma scoped
   - Não se deve estilizar componentes diretamente. Tem que ser dentro de uma classe ou id
+
+- Se a renderização for a nível do componente, a renderização ocorrerá no browser e não no server.
