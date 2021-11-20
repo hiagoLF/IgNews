@@ -1,4 +1,3 @@
-import { Console } from "console";
 import { NextApiRequest, NextApiResponse } from "next";
 import { getSession } from "next-auth/client";
 import { fauna } from "../../services/fauna";

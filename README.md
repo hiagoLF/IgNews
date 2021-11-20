@@ -1,4 +1,15 @@
-# Projeto em Desenvolvimento
+# IgNews
+- Este projeto foi desenvolvido durante a trilha React do treinamento Ignite da Rocketseat
+- Aqui utilizamos o NextJs para criar um Blog em que as publicações podem ser vistas a partir de assinaturas mensais
+- As tecnologias aqui utilizadas são
+  - NextJs - Desenvolvimento da aplicaçã
+  - Stripe - Pagamentos de assisnaturas
+  - FaunaDB - Banco de dados para armazenamentos de usuários e assinaturas
+  - Prismic - Gerenciamento dos post para o blog
+
+# Preview
+
+![IgNews](./preview/ignews.gif)
 
 # Lições importantes
 
