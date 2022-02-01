@@ -4,11 +4,8 @@ import { api } from "../../services/api";
 import { getStripeJs } from "../../services/stirpe-js";
 import styles from "./styles.module.scss";
 
-interface SubscribeButtonProps {
-  priceId: string;
-}
 
-const SubscribeBbutton: React.FC<SubscribeButtonProps> = ({ priceId }) => {
+const SubscribeBbutton: React.FC = () => {
   const [session] = useSession();
   const router = useRouter();
 
